@@ -1,0 +1,11 @@
+.title {
+  font-weight: bold;
+}
+
+.contents {
+  margin-left: 30px;
+  margin-top: 10px;
+
+  display: flex;
+  justify-content: space-between;
+}
